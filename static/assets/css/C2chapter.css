@@ -1,0 +1,19 @@
+.quize-container{
+    width: 800px;
+    height: 400px;
+    margin: 0 auto;
+}
+.container-info{
+    display: flex;
+    flex-direction: column;
+    margin-left: calc(50% - 500px);
+    margin-right: calc(50% - 500px);
+    margin-bottom: 3em;
+}
+code{
+    background-color: #f1f0f0;
+    padding: 0.3em;
+    border-radius: 10px;
+    margin-bottom: 0.4em;
+    display: block;
+}
